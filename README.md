@@ -1,5 +1,5 @@
 # 💫 About Me:
-🌱 I’m currently learning Django and MERN<br>👯 All of my projects are available on <a href="https://github.com/Rahulns21">Github</a><br>💬 Ask me about Programming, Android Development, Web Development<br>📧 Reach out to me at rahul9380767545@gmail.com
+🌱 I’m currently learning Django and MERN<br><br>👯 All of my projects are available on <a href="https://github.com/Rahulns21">Github</a><br><br>💬 Ask me about Programming, Android Development, Web Development<br><br>📧 Reach out to me at rahul9380767545@gmail.com
 
 
 ## 🌐 Socials:
