@@ -2,8 +2,6 @@
 <h3 align="center">A passionate developer from India 🇮🇳 </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Rahulns21&label=Profile%20views&color=0e75b6&style=flat" alt="RahulNS" /> </p>
----
-[![](https://visitcount.itsvg.in/api?id=Rahulns21&icon=8&color=0)](https://visitcount.itsvg.in)
 
 # 💫 About Me:
 🌱 I’m currently learning Django and MERN<br><br>👯 All of my projects are available on <a href="https://github.com/Rahulns21">Github</a><br><br>💬 Ask me about Programming, Android Development, Web Development<br><br>📧 Reach out to me at rahul9380767545@gmail.com
