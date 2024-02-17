@@ -6,6 +6,11 @@
 # 💫 About Me:
 🌱 I’m currently learning Django and MERN<br><br>👯 All of my projects are available on <a href="https://github.com/Rahulns21">Github</a><br><br>💬 Ask me about Programming, Android Development, Web Development<br><br>📧 Reach out to me at rahul9380767545@gmail.com
 
+<h3 align="left">GitHub Stats:</h3>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Rahulns21&show_icons=true&locale=en" alt="chandansgowda" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Rahulns21&" alt="chandansgowda" /></p>
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/rahxl21) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/rahul-21-ns) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/rahul_ns21) 
