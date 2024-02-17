@@ -1,3 +1,7 @@
+<h1 align="center">Hi 👋, I'm Rahul NS</h1>
+<h3 align="center">A passionate developer from India 🇮🇳 </h3>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Rahulns21&label=Profile%20views&color=0e75b6&style=flat" alt="RahulNS" /> </p>
 ---
 [![](https://visitcount.itsvg.in/api?id=Rahulns21&icon=8&color=0)](https://visitcount.itsvg.in)
 
