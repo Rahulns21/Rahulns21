@@ -1,3 +1,6 @@
+---
+[![](https://visitcount.itsvg.in/api?id=Rahulns21&icon=8&color=0)](https://visitcount.itsvg.in)
+
 # 💫 About Me:
 🌱 I’m currently learning Django and MERN<br><br>👯 All of my projects are available on <a href="https://github.com/Rahulns21">Github</a><br><br>💬 Ask me about Programming, Android Development, Web Development<br><br>📧 Reach out to me at rahul9380767545@gmail.com
 
@@ -10,13 +13,8 @@
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Rahulns21&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Rahulns21&theme=tokyonight&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Rahulns21&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Rahulns21&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
 
----
-[![](https://visitcount.itsvg.in/api?id=Rahulns21&icon=8&color=0)](https://visitcount.itsvg.in)
 
   ## 💰 You can help me by Donating
   [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/@imharry33) 
