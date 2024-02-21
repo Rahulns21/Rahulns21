@@ -4,7 +4,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Rahulns21&label=Profile%20views&color=0e75b6&style=flat" alt="RahulNS" /> </p>
 
 # 💫 About Me:
-🌱 I’m currently learning Django and MERN<br><br>👯 All of my projects are available on <a href="https://github.com/Rahulns21">Github</a><br><br>💬 Ask me about Programming, Android Development, Web Development<br><br>📧 Reach out to me at rahul9380767545@gmail.com
+🌱 I’m currently learning Django and MERN<br><br>👯 All of my projects are available on <a href="https://github.com/Rahulns21?tab=repositories">Github</a><br><br>💬 Ask me about Programming, Android Development, Web Development<br><br>📧 Reach out to me at rahul9380767545@gmail.com
 
 <h3 align="left">GitHub Stats:</h3>
 
